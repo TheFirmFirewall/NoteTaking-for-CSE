@@ -22,14 +22,14 @@ function drawGrid() {
   ctx.fillRect(0, 0, width, height);
   ctx.fillStyle = "#fcc42a29";
 
-  for (let x = width / 100 / 2; x <= width; x += Math.ceil(width / 100)) {
-    for (let y = height / 100 / 2; y <= height; y += Math.ceil(height / 100)) {
-      ctx.beginPath();
-      ctx.arc(x, y, 1, 0, Math.PI * 2, false);
-      ctx.fill();
-      ctx.closePath();
-    }
-  }
+  // for (let x = width / 100 / 2; x <= width; x += Math.ceil(width / 100)) {
+  //   for (let y = height / 100 / 2; y <= height; y += Math.ceil(height / 100)) {
+  //     ctx.beginPath();
+  //     ctx.arc(x, y, 1, 0, Math.PI * 2, false);
+  //     ctx.fill();
+  //     ctx.closePath();
+  //   }
+  // }
 }
 
 setDimentions();
