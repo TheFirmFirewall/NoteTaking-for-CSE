@@ -1,25 +1,14 @@
-<h1 align="center">Notem</h1>
+<h1 align="center">NoteTaking for CSE</h1>
 
-> Notem, A small note taking website
+> NoteTaking for CSE is a small notetaking website support for code editing with specialised editor, dynamic window creation, drawing and much more
+> WORK IN PROGRESS
 
 ---
 
 ## Author
 
-👤 **Aditya Singh**
+👤 **Kaivalya Walwadkar**
 
-- Github: [@aditya-singh9](https://github.com/aditya-singh9)
-- LinkedIn: [@Aditya Singh](https://www.linkedin.com/in/aditya-singh9/)
-- Portfolio: [adityasingh.xyz](https://adityasingh.tech)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/aditya-singh9/memoBoard/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-This project is under [MIT](https://github.com/aditya-singh9/memoBoard/blob/main/LICENSE) license.
+- Github: [@Kaivalya09](https://github.com/Kaivalya09)
+- LinkedIn: [@Kaivalya Walwadkar](https://www.linkedin.com/in/kaivalya0912/)
+- LinkedIn: [@Vedant Nagre](https://www.linkedin.com/in/vedantnagre)
