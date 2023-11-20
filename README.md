@@ -9,6 +9,12 @@
 
 👤 **Kaivalya Walwadkar**
 
+Team:
+- Kaivalya Walwadkar
+- Vedant Nagre
+- Shraman Teltumde
+
+Socials:
 - Github: [@Kaivalya09](https://github.com/Kaivalya09)
 - LinkedIn: [@Kaivalya Walwadkar](https://www.linkedin.com/in/kaivalya0912/)
 - LinkedIn: [@Vedant Nagre](https://www.linkedin.com/in/vedantnagre)
